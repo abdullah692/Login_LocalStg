@@ -1,0 +1,42 @@
+body{
+  background-color: lightblue;
+}
+.container{
+  display:flex;
+  justify-content:'center';
+  align-content:'center';
+  margin-top:30px;
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  
+  
+}
+.date-picker input
+{
+  padding:15px;
+  width:38%;
+}
+.main_container{
+  margin-top: 50px;
+}
+.inputField
+{
+ 
+}
+.link
+{
+  margin-top: 50px; 
+}
+.cards_container
+{
+  display:inline-flex;
+  justify-content:center;
+  align-items: center;
+  align-content: center;
+  /* flex-direction: row; */
+  margin: 5px;
+  margin-left:10px;
+  margin-top: 20px;
+  padding:10px;
+}
